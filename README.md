@@ -52,29 +52,19 @@
 
 
 
-### 📌 Overview & SEO Summary
+### 📌 Overview & SEO Summary 🔍
 
-Welcome to the ultimate curated directory of **autonomous campaign management platforms**, **open-source marketing automation frameworks**, and **AI-powered campaign agents**. Whether you are looking for enterprise-grade commercial solutions (such as *Salesforce Agentforce Campaigns*, *Zeta Global*, and *Braze*), or self-hostable open-source alternatives (like *Mautic*, *OpenCloser*, and *Apache Unomi*), this list covers category leaders, agentic workflows, and privacy-respecting campaign orchestration.
+Welcome to the definitive curated directory of **autonomous campaign management platforms**, **open-source marketing automation frameworks**, **AI SDR voice callers**, and **AI-powered campaign agents**. Whether you are evaluating enterprise-grade commercial platforms (such as *Salesforce Agentforce Campaigns*, *Adobe Marketo Engage*, *Braze*, and *Zeta Global*), or deploying privacy-first, self-hostable open-source engines (like *n8n*, *Twenty CRM*, *Mautic*, *Novu*, *listmonk*, and *Apache Unomi*), this repository tracks category leaders, agentic workflows, omnichannel delivery, and data sovereignty solutions.
 
+> **Keywords:** Autonomous Campaign Management, AI Marketing Agents, Autonomous SDR, AI Campaign Orchestration, Open-Source Marketing Automation, Self-Hosted Email Marketing, Omnichannel Customer Engagement, Conversational AI Agents, Programmatic Journey Optimization, Mautic, Salesforce Agentforce, Braze AI, n8n Agent Nodes.
 
-
-**Key Market Context:**
-
-- **Salesforce Agentforce Campaigns** allows teams to **describe campaign goals in natural language** and Agentforce creates **audience segments, nurture flows, and campaign assets in minutes** — with **Marketing Cloud Next Growth Edition at $1,500/org/month** and **Advanced at $3,250/org/month** .
-
-- **Zeta Global's AI Agents are now GA** with **400 hours of work saved per month** and **300% increase in month-over-month agent usage** — **Agentic Workflows in beta** allow chaining agents for customer journey optimization, campaign execution, and programmatic media buying .
-
-- **Blueshift's Launchpad (Open Beta)** lets marketers **create segments, templates, campaigns, and dashboards using natural language** in a unified workspace, while **Campaign Optimizer Agent now supports SMS** with variant testing and automated winner selection .
-
-- **Iterable's Nova Agents** (Review, Experimentation, Handlebars, Analytics) handle **execution work behind the scenes** — teams set the goal and agents handle QA, testing, and optimization automatically .
-
-- **Braze's Conversational Agents (Beta)** replace keyword matching with **intelligent, on-brand dialogue** across WhatsApp, SMS, RCS, and web, with **Agentic Standards** for automated QA and **Message Prioritization** for cross-campaign coordination .
-
-- **Persado** content outperforms human and other AI-generated copy **96% of the time**, improving customer engagement by **over 40%** , with **8 of the top 10 U.S. banks** relying on its Motivation AI .
-
-- **Phrasee** optimizes language across the full customer journey with **natural language generation, machine learning, and dynamic optimization** — over **1 billion people across four continents** have responded to Phrasee-generated language .
-
-- **Mautic** is the **world's first open-source marketing automation product** — **100% community-owned, no commercial entity behind it, true data sovereignty, and no license costs or lock-in** .
+#### 🎯 Key Industry Highlights & Market Context:
+- ☁️ **Salesforce Agentforce Campaigns**: Marketers describe campaign briefs in natural language; Agentforce autonomously drafts segments, nurture journeys, and multi-channel creative assets in minutes.
+- 🟢 **Zeta Global AI Agents**: General availability of multi-agent workflows saving 400+ operational hours per month across journey orchestration, media buying, and audience synthesis.
+- 🟡 **Braze Conversational Agents & Standards**: Brand-aligned conversational dialogue across WhatsApp, RCS, and SMS paired with automated pre-launch QA rules.
+- ⚡ **Autonomous Workflow Engines (n8n, Twenty, Novu)**: Open-source developer platforms merging multi-agent tool calling with production email, push, and CRM databases.
+- 🧠 **Motivation AI & Dynamic Copy Optimization (Persado, Phrasee/Jacquard)**: Enterprise generative AI delivering statistical lift that outperforms human and traditional copy testing 96% of the time.
+- 🏛️ **Mautic & Community Data Sovereignty**: 100% community-governed open-source marketing automation offering unlimited contacts, zero license fees, and complete data privacy.
 
 
 
@@ -89,11 +79,8 @@ Welcome to the ultimate curated directory of **autonomous campaign management pl
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
-- [📊 Star History](#-star-history)
-
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
+- [📊 Star History](#-star-history)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 
@@ -130,63 +117,49 @@ The autonomous campaign management market spans **CRM-native agentic platforms**
 
 ## 🔓 Open-Source GitHub Projects
 
-
-
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) ⚡  
+  **Fair-code workflow automation and agent orchestration platform** (Sustainable Use License). Connects 400+ services with native AI Agent nodes for autonomous multi-step campaign execution, lead enrichment, webhook triggers, and automated personalized outreach pipelines. 🤖
 
+- **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) 🏢  
+  **The open-source CRM alternative to Salesforce**, AGPL-3.0 licensed. Full-featured modern customer relationship management platform with custom objects, campaign tracking, automated workflows, GraphQL APIs, and self-hosted data autonomy. 🚀
 
-- **[Mautic](https://github.com/mautic/mautic)** [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
+- **[Novu](https://github.com/novuhq/novu)** [![Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) 🔔  
+  **Open-source notification and omnichannel campaign delivery infrastructure**, MIT licensed. Centralized campaign routing across email, SMS, push, chat, and in-app feeds with digests, step delays, visual journey workflows, and subscriber preference centers. 📱
 
-  **World's first open-source marketing automation product**, GPL-3.0 licensed. **The definitive open-source marketing automation suite** — **100% community-owned with no commercial entity behind it, no investors to answer to** . **True data sovereignty** — you decide where it runs and which jurisdiction your data lives in . **Hundreds of developers, thousands of contributors, tens of thousands of live instances worldwide** . **No license costs, no lock-in** — self-hosting is unlimited, with hosting and SaaS providers offering different options including unlimited contacts . **Disciplined release planning with Long-Term Support and optional Extended LTS for years of stable, secure production** . **The most trusted open-source campaign management platform** . 🏛️
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) 💬  
+  **Open-source customer engagement suite and live messaging platform**, MIT licensed. Omnichannel campaign and conversational support engine integrating email, website live chat, WhatsApp, SMS, and Instagram with AI agent copilot assistance. 🌐
 
+- **[listmonk](https://github.com/knadh/listmonk)** [![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) 📨  
+  **High-performance, self-hosted newsletter and mailing campaign manager**, AGPL-3.0 licensed. Written in Go and PostgreSQL, delivers tens of thousands of messages per second with subscriber segmentation, custom attributes, templates, and REST APIs. 🚀
 
+- **[Postal](https://github.com/postalserver/postal)** [![Stars](https://img.shields.io/github/stars/postalserver/postal?style=social&color=white)](https://github.com/postalserver/postal/stargazers) ✉️  
+  **Complete open-source mail delivery platform and SMTP server**, MIT licensed. Built for transactional and marketing campaigns with real-time delivery graphs, click/open tracking, bounce handling, and multi-domain IP pools. 📡
 
-- **[OpenCloser](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers)  
+- **[Mautic](https://github.com/mautic/mautic)** [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) 🏛️  
+  **World's first open-source marketing automation product**, GPL-3.0 licensed. **The definitive open-source marketing automation suite** — **100% community-owned with no commercial entity behind it**. Visual campaign journey builder, lead scoring, dynamic web content, CRM integrations, and self-hosted data sovereignty with zero license lock-in. 📧
 
-  **Open-source AI SDR & AI sales platform**, MIT licensed. **The most complete open-source AI sales team** — **AI Sales Strategist generates ICP using SPIN & Challenger frameworks** . **AI Lead Researcher does autonomous lead hunting with scoring and qualification, full local-first CRM with Kanban pipeline** . **AI Caller (SDR) is a real-time AI voice agent** powered by Google Gemini (also supports OpenAI Realtime and ElevenLabs ConvAI) with **built-in Twilio phone lines, live transcription, sentiment analysis, objection detection, and power dialing** . **AI Sales Coach offers objection sparring training with 3 difficulty levels and 12 objection archetypes** . **Runs fully in demo mode with no API key** . **Built with Tauri, React 19, Rust, and Gemini** . **Cost: Free vs $280–$1,000+/month per seat for SaaS alternatives** . 🚀
+- **[GrowthBook](https://github.com/growthbook/growthbook)** [![Stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers) 🧪  
+  **Open-source A/B testing and feature flagging platform for campaign optimization**, MIT licensed. Bayesian and Frequentist statistics engine for continuous multi-variant campaign experimentation, conversion optimization, and automated winning variant rollout. 📈
 
+- **[EspoCRM](https://github.com/espocrm/espocrm)** [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) 💼  
+  **Open-source CRM and campaign management application**, GPL-3.0 licensed. Inbound marketing automation, target lists, automated email marketing campaigns, mass mailing tracking, and sales pipeline synchronization. 🎯
 
+- **[SendPortal](https://github.com/mettle/sendportal)** [![Stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers) 📬  
+  **Open-source self-hosted email marketing and campaign manager**, MIT licensed. Laravel-powered platform supporting multi-tenant campaign management, AWS SES / SendGrid / Postmark / Mailgun integration, subscriber tagging, and message analytics. 💌
 
-- **[Apache Unomi](https://github.com/apache/unomi)** [![Stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers)  
+- **[Apache Unomi](https://github.com/apache/unomi)** [![Stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers) 🎯  
+  **Open-source customer data platform (CDP) and campaign personalization engine**, Apache-2.0 licensed. Apache Software Foundation top-level project providing OASIS Customer Data Platform standards, rule-based audience segmentation, and real-time behavioral personalization. 🧩
 
-  **Open-source customer data platform and campaign personalization engine**, Apache-2.0 licensed. **Apache Software Foundation top-level project** — **provides a customer data platform (CDP) with REST APIs for building campaign management and personalization systems** . **Profile, segment, and rule-based personalization** . **The most established open-source CDP for campaign management** . 🎯
+- **[Warmbly](https://github.com/warmbly/warmbly)** [![Stars](https://img.shields.io/github/stars/warmbly/warmbly?style=social&color=white)](https://github.com/warmbly/warmbly/stargazers) 🛡️  
+  **Open-source B2B cold outreach and email warmup service**, open-source. Runs automated multi-step sequences, mailbox warming, unified inbox, CRM pipeline tracking, deliverability monitoring, and visual reply playbooks. ⚙️
 
+- **[ColdScout](https://github.com/colddsam/coldscout)** [![Stars](https://img.shields.io/github/stars/colddsam/coldscout?style=social&color=white)](https://github.com/colddsam/coldscout/stargazers) 🔍  
+  **Autonomous AI-powered B2B lead generation & outreach SaaS**, open-source. Discovers local business leads via Google Places, qualifies with Groq Llama 3, and executes hyper-personalized email campaigns with independent schedulable pipeline stages. 🎯
 
-
-- **[OpenCloser (issacops/opencloser-v2)](https://github.com/issacops/opencloser-v2)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser-v2?style=social&color=white)](https://github.com/issacops/opencloser-v2/stargazers)  
-
-  **Open-source AI SDR & sales platform v2**, MIT licensed. **AI Sales Strategist, AI Lead Researcher, AI Caller (SDR), AI Sales Coach, and AI Sales Manager** . **Runs fully in demo mode with no API key** — 10 realistic seed leads, simulated AI calls . **Tauri + React 19 + Rust + Gemini** . **The most complete open-source autonomous campaign and outreach platform** . 🎯
-
-
-
-- **[Mautic (Mautic Community)](https://github.com/mautic/mautic)** [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
-
-  **Full-blown free and open-source marketing automation suite**, GPL-3.0 licensed. **Campaign builder, email marketing, landing pages, forms, lead scoring, and CRM integrations** . **Self-hosted unlimited** . **The most complete open-source alternative to HubSpot and Marketo** . 📧
-
-
-
-- **[Smartlead](https://github.com/smartlead-ai/smartlead)** [![Stars](https://img.shields.io/github/stars/smartlead-ai/smartlead?style=social&color=white)](https://github.com/smartlead-ai/smartlead/stargazers)  
-
-  **Cold email infrastructure with autonomous agents**, open-source. **SmartProspect, SmartDelivery, SmartAgents** for autonomous prospecting . **Dedicated infrastructure (SmartInfra) at ~$39/server/month** . **Client Access for agency collaboration** . **The most complete open-source cold outreach platform** . 📨
-
-
-
-- **[ColdScout](https://github.com/colddsam/coldscout)** [![Stars](https://img.shields.io/github/stars/colddsam/coldscout?style=social&color=white)](https://github.com/colddsam/coldscout/stargazers)  
-
-  **Autonomous AI-powered B2B lead generation SaaS**, open-source. **Discovers local businesses via Google Places, qualifies with Groq Llama 3, and sends hyper-personalized cold email campaigns** . **Pipeline stages independently schedulable via jobs_config.json** . **Built with FastAPI, React 19, PostgreSQL, Supabase Auth, and Razorpay billing** . 🎯
-
-
-
-- **[Warmbly](https://github.com/warmbly/warmbly)** [![Stars](https://img.shields.io/github/stars/warmbly/warmbly?style=social&color=white)](https://github.com/warmbly/warmbly/stargazers)  
-
-  **Largest open-source B2B cold outreach and email warmup service**, open-source. **Runs cold email campaigns from mailboxes you already own and warms them so they keep landing in the inbox** . **Multi-step sequences, unified inbox, CRM with pipelines, deliverability management, visual reply playbooks** . **Self-hosting with no cloud account** — one command brings up the whole platform . 🛡️
-
-
-
-- **[OpenCloser (GitHub)](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers)  
-
-  **Open-source AI SDR & AI sales platform**, MIT licensed. **AI Sales Strategist, AI Lead Researcher, AI Caller, AI Sales Coach, AI Sales Manager** . **Runs fully in demo mode with no API key** . **Tauri + React 19 + Rust + Gemini** . 🚀
+- **[OpenCloser](https://github.com/issacops/opencloser)** [![Stars](https://img.shields.io/github/stars/issacops/opencloser?style=social&color=white)](https://github.com/issacops/opencloser/stargazers) 🚀  
+  **Open-source AI SDR & sales automation agent platform**, MIT licensed. AI Sales Strategist (SPIN & Challenger ICP generation), autonomous lead researcher, real-time Gemini voice agent with built-in phone lines, and AI objection sparring coach. 🤖
 
 
 
@@ -216,60 +189,32 @@ Contributions are welcome! Follow these steps to submit new autonomous campaign 
 
 
 
+## 🤝 Support & Sponsorship
+
+A heartfelt thank you to everyone exploring, testing, and contributing to this ecosystem! If you find this autonomous campaign management repository useful, please consider supporting the project:
+
+- ⭐ **Star** this repository to help other engineers, marketers, and growth teams discover it!
+- 🔀 **Fork & Share** with fellow marketing automation practitioners, AI builders, and open-source advocates.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing research, benchmarking, and open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## 📊 Star History
-
-
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Autonomous-Campaign-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Autonomous-Campaign-Management&type=date&legend=top-left)
 
-
-
 ---
-
-
-
-## 🤝 Support & Sponsorship
-
-
-
-If you find this autonomous campaign management repository useful, please consider supporting the project:
-
-
-
-- ⭐ **Star** this repository to increase visibility!
-
-- 🔀 **Fork** and share with fellow marketers, growth leaders, and open-source advocates.
-
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
-
-
----
-
-
 
 ## ⚠️ Disclaimer
 
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
-- **Salesforce Marketing Cloud Next requires an annual contract** — **Growth at $1,500/org/month and Advanced at $3,250/org/month** . **Agentforce Campaigns is built on the same Salesforce platform as Sales, Service, and Commerce**, enabling unified data and AI agents .
-
-- **Zeta Global's Agentic Workflows are in beta** — **contact your Zeta Account Manager to test** . **Braze's Conversational Agents are in beta** — **contact your Braze account team to join** . **Blueshift's Launchpad is in open beta** as of March 2026 .
-
-- **Mautic is the world's first open-source marketing automation product** — **100% community-owned, no commercial entity behind it, and designed to stay that way** . **True data sovereignty** — you decide where it runs and which jurisdiction your data lives in .
-
-- **Always validate campaign automation, AI-generated content quality, and deliverability with a proof-of-concept** before production deployment. Autonomous agents can send thousands of messages — **ensure brand guidelines, compliance rules, and suppression lists are enforced** before going live. 📣
-
-
+- ℹ️ This is a **community-curated** list — not exhaustive and not an official corporate endorsement.
+- ☁️ **Salesforce Marketing Cloud Next requires an annual contract** — Growth at $1,500/org/month and Advanced at $3,250/org/month. Agentforce Campaigns is built on the same Salesforce platform as Sales, Service, and Commerce, enabling unified data and AI agents.
+- 🟢 **Zeta Global's Agentic Workflows are in beta** — contact your Zeta Account Manager to test. **Braze's Conversational Agents are in beta** — contact your Braze account team to join. **Blueshift's Launchpad is in open beta** as of March 2026.
+- 🏛️ **Mautic is the world's first open-source marketing automation product** — 100% community-owned with no commercial entity behind it, guaranteeing data sovereignty and privacy.
+- 📣 **Always validate campaign automation, AI-generated content quality, and deliverability with a proof-of-concept** before production deployment. Autonomous agents can generate and dispatch thousands of communications — ensure brand safety guidelines, compliance rules, and suppression lists are strictly enforced before going live.
 
 ---
 
-
-
 <p align="center">
-
   <b>Made with ❤️ for marketers, growth leaders, and open-source campaign management advocates.</b>
-
 </p>
