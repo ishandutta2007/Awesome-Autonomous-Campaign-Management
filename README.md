@@ -1,41 +1,24 @@
-# Awesome-Autonomous-Campaign-Management
-
 # Awesome-Autonomous-Campaign-Management 🚀 📣
 
-
-
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome Autonomous Campaign Management Banner" width="100%">
-
 </p>
-
 
 
 <p align="center">
-
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Campaign-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Campaign-Management?style=social" alt="GitHub_Stars"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Campaign-Management/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Campaign-Management?style=social" alt="GitHub Forks"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Campaign-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Autonomous-Campaign-Management?color=blue" alt="License"/></a>
-
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
 </p>
-
 
 
 ---
 
 
-
 ## 🌟 Top Autonomous Campaign Management Ecosystem
-
 
 
 **Curated List of Commercial AI Campaign Platforms & Open-Source Marketing Automation Frameworks**  
@@ -43,13 +26,10 @@
 *Focused on Autonomous Campaign Creation, AI Agents, Multi-Channel Journeys, Language Optimization, Predictive Personalization & Self-Hosted Marketing Automation*
 
 
-
 **Last updated: October 2026** 📅
 
 
-
 ---
-
 
 
 ### 📌 Overview & SEO Summary 🔍
@@ -67,9 +47,7 @@ Welcome to the definitive curated directory of **autonomous campaign management 
 - 🏛️ **Mautic & Community Data Sovereignty**: 100% community-governed open-source marketing automation offering unlimited contacts, zero license fees, and complete data privacy.
 
 
-
 ---
-
 
 
 ## 📑 Table of Contents
@@ -84,13 +62,10 @@ Welcome to the definitive curated directory of **autonomous campaign management 
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 
-
 ---
 
 
-
 ## 🏢 SaaS / Commercial Platforms
-
 
 
 The global marketing automation and autonomous campaign management software market is estimated at **$8.5 Billion to $11 Billion in 2026** (projected to exceed $25B+ by the 2030s), exhibiting a **moderately fragmented yet top-heavy structure** where tech giants (Salesforce, Adobe) dominate high-end enterprise share alongside an active, competitive ecosystem of specialized AI-agent and multi-channel marketing platforms.
@@ -110,9 +85,7 @@ The autonomous campaign management market spans **CRM-native agentic platforms**
 | **[Phrasee](https://phrasee.co/)** (Now Jacquard) | Capital D / Management | ~$25 Million (PE Valuation / Revenue ~$10M/yr) | **~$500/month** (Growth package starting tier for language generation) | **Interactive Proof-of-Value**: 14-day guided proof-of-value trial on request; no public free tier | **Language optimization platform** — **generates, optimizes, automates, and analyzes language in real time** . **1 billion+ people across four continents** have responded to Phrasee-generated language . **B2C brands including Domino's, eBay, FARFETCH, Groupon, Party City, and Walgreens** . |
 
 
-
 ---
-
 
 
 ## 🔓 Open-Source GitHub Projects
@@ -162,31 +135,22 @@ The autonomous campaign management market spans **CRM-native agentic platforms**
   **Open-source AI SDR & sales automation agent platform**, MIT licensed. AI Sales Strategist (SPIN & Challenger ICP generation), autonomous lead researcher, real-time Gemini voice agent with built-in phone lines, and AI objection sparring coach. 🤖
 
 
-
 ---
-
 
 
 ## 🛠️ How to Contribute
 
 
-
 Contributions are welcome! Follow these steps to submit new autonomous campaign management platforms or open-source marketing automation software:
 
 
-
 1. 🍴 **Fork** the repository.
-
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
 3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 
-
 ---
-
 
 
 ## 🤝 Support & Sponsorship
